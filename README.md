@@ -1,2 +1,2 @@
 # SEO-Checklist
-I've uploaded an SEO checklist template for future projects. 
+A working, usable copy of my SEO checklist, designed to improve website's performance. The list also includes tools recommendations.
